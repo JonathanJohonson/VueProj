@@ -4,7 +4,7 @@ import Vue from 'vue'
 import FastClick from 'fastclick'
 import App from './App'
 import router from './router'
-import './assets/reset.css'
+import './assets/style/reset.css'
 
 Vue.config.productionTip = false
 FastClick.attach(document.body)
